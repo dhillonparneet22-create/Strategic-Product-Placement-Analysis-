@@ -1,3 +1,4 @@
  # Project contributors 
- *[Team Leader - Parneet kaur]
-*[ Team member - Kamalpreet kaur, (GitHub repository - https://github.com/Kamalpreetkaur4/Strategic-Product-placement-analysis-)]
+ * **Team Leader:** Parneet Kaur
+* **Team Member:** [Kamalpreet Kaur](https://github.com/Kamalpreetkaur4/Strategic-Product-placement-analysie-)
+* 
